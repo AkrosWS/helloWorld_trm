@@ -4,7 +4,7 @@ public class Home {
 
 	public static void main(String[] args) {
 		//version 2
-		System.out.println("helloWorld");
+		System.out.println("Hello World");
 		
 	}
 
